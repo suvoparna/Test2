@@ -1,5 +1,1 @@
-Hello World
-
-This this a test project for git
-
-Hi Hello;
+console.log("Hi hello");
